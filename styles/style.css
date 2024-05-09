@@ -1,0 +1,81 @@
+body {
+   background-color: rgba(241, 241, 241, 0.925);
+}
+
+table th {
+   padding: 4px;
+   background-color: #68c8e5;
+   color: white;
+}
+
+.container {
+   margin: auto;
+   width: 80%;
+   margin-top: 30px;
+   padding: 20px;
+   outline: 2px solid white;
+   background-color: #ffffff;
+   border-radius: 4px;
+}
+
+table td {
+   color: black;
+   padding: 3px;
+   border-bottom: 2px solid gray;
+   text-align: center;
+}
+
+nav {
+   margin: auto;
+   width: 90%;
+   background-color: rgb(248, 248, 248);
+   padding: 5px;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: space-between;
+}
+
+nav h1 {
+   color: rgb(0, 83, 56);
+}
+
+ul li {
+   list-style-type: none;
+}
+
+nav a {
+   color: rgb(255, 255, 255);
+   padding: 5px;
+   background: red;
+}
+
+.search {
+   display: flex;
+   justify-content: center;
+   margin: auto;
+   width: 80%;
+   margin-bottom: 10px;
+}
+
+.search input {
+   text-align: center;
+   width: 70%;
+   padding: 5px;
+   border: 2px solid rgb(36, 0, 25);
+}
+
+.control-search {
+   margin-left: 2px;
+   display: flex;
+   flex-direction: row;
+   gap: 2px;
+}
+
+.search button {
+   border-left: 2px solid white;
+   color: white;
+   font-weight: bolder;
+   background-color: rgb(0, 47, 255);
+   border: none;
+}

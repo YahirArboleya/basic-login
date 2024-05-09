@@ -1,0 +1,102 @@
+[
+   {
+       "id": 1,
+       "nombre_completo": "Juan Pérez López",
+       "area_de_adquisicion": "Departamento de Compras",
+       "edad": 35,
+       "curp": "PELJ890101HMCRRN04",
+       "cargo": "Gerente de Compras",
+       "domicilio": "Calle 123, Colonia Centro, Ciudad de México",
+       "antiguedad": 7
+   },
+   {
+       "id": 2,
+       "nombre_completo": "María González Martínez",
+       "area_de_adquisicion": "Departamento de Adquisiciones",
+       "edad": 28,
+       "curp": "GOMM930502MMCSRL09",
+       "cargo": "Analista de Adquisiciones",
+       "domicilio": "Avenida 456, Colonia Norte, Guadalajara",
+       "antiguedad": 3
+   },
+   {
+       "id": 3,
+       "nombre_completo": "Carlos Rodríguez García",
+       "area_de_adquisicion": "Departamento de Compras Estratégicas",
+       "edad": 40,
+       "curp": "ROGC760320HMCRRR08",
+       "cargo": "Coordinador de Compras",
+       "domicilio": "Calle Principal 789, Colonia Este, Monterrey",
+       "antiguedad": 12
+   },
+   {
+       "id": 4,
+       "nombre_completo": "Ana Martínez Sánchez",
+       "area_de_adquisicion": "Departamento de Adquisición de Materiales",
+       "edad": 32,
+       "curp": "MASA850710MMCSNN00",
+       "cargo": "Especialista en Compras",
+       "domicilio": "Calle Secundaria 321, Colonia Oeste, Puebla",
+       "antiguedad": 5
+   },
+   {
+       "id": 5,
+       "nombre_completo": "Luis Sánchez Pérez",
+       "area_de_adquisicion": "Departamento de Contrataciones",
+       "edad": 45,
+       "curp": "SAPL750420HMCRRN00",
+       "cargo": "Jefe de Contrataciones",
+       "domicilio": "Avenida Principal 456, Colonia Sur, Ciudad de México",
+       "antiguedad": 15
+   },
+   {
+       "id": 6,
+       "nombre_completo": "Laura López Hernández",
+       "area_de_adquisicion": "Departamento de Suministros",
+       "edad": 38,
+       "curp": "LOHL810705MMCSRR09",
+       "cargo": "Analista de Suministros",
+       "domicilio": "Calle Secundaria 987, Colonia Poniente, Tijuana",
+       "antiguedad": 8
+   },
+   {
+       "id": 7,
+       "nombre_completo": "Pedro García Rodríguez",
+       "area_de_adquisicion": "Departamento de Adquisición de Equipos",
+       "edad": 33,
+       "curp": "GARP880210HMCRRD06",
+       "cargo": "Especialista en Adquisiciones",
+       "domicilio": "Avenida Principal 789, Colonia Norte, Ciudad Juárez",
+       "antiguedad": 6
+   },
+   {
+       "id": 8,
+       "nombre_completo": "Sofía Martínez González",
+       "area_de_adquisicion": "Departamento de Compras Internacionales",
+       "edad": 36,
+       "curp": "MAGS850120MMCSFR09",
+       "cargo": "Coordinadora de Compras Internacionales",
+       "domicilio": "Calle Principal 654, Colonia Este, Querétaro",
+       "antiguedad": 9
+   },
+   {
+       "id": 9,
+       "nombre_completo": "Javier Pérez García",
+       "area_de_adquisicion": "Departamento de Abastecimiento",
+       "edad": 41,
+       "curp": "PEGJ730810HMCRRV07",
+       "cargo": "Gerente de Abastecimiento",
+       "domicilio": "Avenida Secundaria 321, Colonia Centro, Mérida",
+       "antiguedad": 10
+   },
+   {
+       "id": 10,
+       "nombre_completo": "Elena Rodríguez Martínez",
+       "area_de_adquisicion": "Departamento de Compras Públicas",
+       "edad": 39,
+       "curp": "ROME820502MMCSLZ05",
+       "cargo": "Analista de Compras Públicas",
+       "domicilio": "Calle 123, Colonia Oeste, Aguascalientes",
+       "antiguedad": 4
+   }
+]
